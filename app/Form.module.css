@@ -1,0 +1,20 @@
+.formGroup {
+    margin-bottom: 15px;
+  }
+  
+  .inputError {
+    border: 1px solid red;
+  }
+  
+  .errorMessage {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
+  
+  .successMessage {
+    color: green;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  
